@@ -1,4 +1,4 @@
-# FaceID Monitor
+# Face-ID Monitor
 
 ## Features
 - Face Detection
